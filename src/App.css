@@ -8,12 +8,11 @@
   --text-color: #fff;
   --bg-color: #0f0c27;
   --btn-color:#033a80;
-  --hover: hsl(260, 100%, 51%);
+  --hover: #5805ff;
   --big-font: 3.2rem;
   --medium-font: 1.8rem;
   --p-font: 0.941rem;
   --bgimg: url("./Assets/img/back.png");
-  --logo: url("./Assets/img/light/android-chrome-192x192.png");
 }
 
 
@@ -57,7 +56,6 @@ body.active {
   --bg-color: #fff;
   --btn-color:#0f0c27;
   --bgimg: url("./Assets/img/backdark.png");
-  --logo: url("./Assets/img/dark/android-chrome-192x192.png");
 
 }
 

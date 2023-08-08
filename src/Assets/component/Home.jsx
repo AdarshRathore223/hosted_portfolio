@@ -1,7 +1,7 @@
 import React from 'react'
 import Typedcomponent from './Typedcomponent';
 import { BiLogoLinkedin,BiLogoTwitter,BiLogoGithub } from 'react-icons/bi';
-import img from '../img/main.png';
+import img from '../img/main.webp';
 
 function Home() {
   const handleDownload = () => {

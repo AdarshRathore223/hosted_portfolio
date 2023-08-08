@@ -2,7 +2,7 @@ import React from 'react'
 import SkillData from '../Data/SkillData';
 function Skill() {
   return (
-    <section className="skills" id="skills">
+    <div className="skills" id="skills">
       <div className="heading">
         <h2>Skills</h2>
         <span>Technical Skills</span>
@@ -24,7 +24,7 @@ function Skill() {
 
         </div>
       </div>
-    </section >
+    </div >
   )
 }
 

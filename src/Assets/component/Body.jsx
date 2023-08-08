@@ -15,11 +15,12 @@ function Body() {
 
   return (
     <body className={isDark ? '' : 'active'}>
+    
       <Navbar Theme={Themechanger}/>
       <Home />
       <Aboutme />
       <Skill />
-      {/* <Project /> */}
+      <Project/>
       <Contact />
       <Footer />
       <Copyright />

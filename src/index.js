@@ -12,8 +12,6 @@ root.render(
   // </React.StrictMode>
   <BrowserRouter>
     <Routes>
-      <Route path='*' element={<h1>NO ELEMENT ASSIGNED TO RENDER</h1>}/>
-      <Route path = '/Project' element={<h1>Worked</h1>}/>
       <Route path = '/' element={<App/>}/>
     </Routes>
 

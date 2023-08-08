@@ -3,7 +3,7 @@ import React from 'react'
 function Copyright() {
     return (
         <div className="copyright">
-            <p>hello world</p>
+            <p>&copy; Adarshrathore 2023, All RIGHT RESERVED </p>
         </div >
 
   )

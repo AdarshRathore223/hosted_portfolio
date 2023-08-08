@@ -1,5 +1,5 @@
 import React from 'react'
-import img from '../img/main.png';
+import img from '../img/main.webp';
 function Aboutme() {
   const handleDownload = () => {
     const fileUrl = '../files/Adarsh_Rathore_Resume.pdf';
